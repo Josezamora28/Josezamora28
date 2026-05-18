@@ -36,6 +36,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/2WeXUg75O_YAAAAC/%E3%81%8B%E3%81%BF%E5%A4%AA.gif"  />
+</div>
 
 ###
