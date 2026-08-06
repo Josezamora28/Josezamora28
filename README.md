@@ -1,5 +1,3 @@
-árdalo como README.md:
-
 <div align="center">
   <img
     height="200"
