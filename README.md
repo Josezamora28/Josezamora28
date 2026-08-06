@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://media1.tenor.com/m/2WeXUg75O_YAAAAC/%E3%81%8B%E3%81%BF%E5%A4%AA.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzbTJ5OG93N3Roa2Nzc2t3MmVwZGcyN2o4czNoNDJxdWV6YjFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hgsPEyU4B3wZ8nffCi/giphy.gif)" alt="Developer GIF" />
+  <img height="200" src="https://media1.tenor.com/m/2WeXUg75O_YAAAAC/%E3%81%8B%E3%81%BF%E5%A4%AA.gif" alt="Developer GIF" />
 </div>
 
 <h1 align="left">Hey 👋 ¿Qué tal?</h1>
