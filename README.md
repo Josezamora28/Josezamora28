@@ -69,8 +69,8 @@
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZtY2RucWI4ajFzdm54YXh5ZHMxYXpnNmdlc2s0OGRtMzkyazY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif"
     alt="Developer Banner"
-    width="90%"
-    height="150"
+    width="80%"
+    height="180"
     style="object-fit: cover;"
   />
 </div>
