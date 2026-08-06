@@ -1,12 +1,3 @@
-<div align="center">
-  <img
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZtY2RucWI4ajFzdm54YXh5ZHMxYXpnNmdlc2s0OGRtMzkyazY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif"
-    alt="Developer Banner"
-    width="90%"
-    height="150"
-    style="object-fit: cover;"
-  />
-</div>
 <h1 align="left">Hey 👋 ¿Qué tal?</h1>
 
 <p align="left">
@@ -74,3 +65,12 @@
   🌱 Aprendiendo sobre arquitectura de software, cloud, automatización y diseño de interfaces<br>
   🎯 Mi objetivo es seguir creciendo como Software Engineer y construir productos que generen un impacto real
 </p>
+<div align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZtY2RucWI4ajFzdm54YXh5ZHMxYXpnNmdlc2s0OGRtMzkyazY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v5xYHQh2y8AiQ/giphy.gif"
+    alt="Developer Banner"
+    width="90%"
+    height="150"
+    style="object-fit: cover;"
+  />
+</div>
